@@ -42,15 +42,19 @@ class CreateTblProduct extends Migration
                 'constraint' => 255,
                 'null' => true,
             ],
+            // 'created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL',
+            // 'updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL'
         ]);
         $this->forge->addField('created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL');
         $this->forge->addField('updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL');
+        // $this->forge->addForeignKey('id','users','user_id','NULL','NULL');
         $this->forge->addKey('id', true);
         $this->forge->createTable('tbl_product');
     }
 
     public function down()
     {
+        // $this->forge->dropForeignKey('users','user_id');
         $this->forge->dropTable('tbl_product');
     }
 }
