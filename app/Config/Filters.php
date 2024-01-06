@@ -26,6 +26,8 @@ class Filters extends BaseConfig
         'secureheaders' => SecureHeaders::class,
         // 'apiauth'       => AuthFilter::class,
         'apiauth'       => \App\Filters\AuthFilter::class,
+        'mhzfilter'     => \App\Filters\MHzFilter::class,
+        'corsfilter'    => \App\Filters\CorsFilter::class,
     ];
 
     /**
@@ -39,6 +41,7 @@ class Filters extends BaseConfig
             // 'honeypot',
             // 'csrf',
             // 'invalidchars',
+            'corsfilter'
         ],
         'after' => [
             'toolbar',

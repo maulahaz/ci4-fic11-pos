@@ -1,0 +1,617 @@
+INFO - 2024-01-06 11:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 11:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:51:36 --> Error: Call to undefined function get_user()
+in APPPATH\Views\backend\layout\section\header.php on line 12.
+ 1 APPPATH\Views\backend\layout\blank.php(70): include()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 6 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 11:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:51:36 --> Error: Call to undefined function get_user()
+in APPPATH\Views\backend\layout\section\header.php on line 12.
+ 1 APPPATH\Views\backend\layout\blank.php(70): include()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 6 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 11:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:53:38 --> Error: Class "App\Libraries\MHzAuth" not found
+in APPPATH\Helpers\MHzFunctions_helper.php on line 8.
+ 1 APPPATH\Views\backend\layout\section\header.php(12): get_user()
+ 2 APPPATH\Views\backend\layout\blank.php(70): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\header.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 11:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:55:16 --> Error: Class "App\Libraries\MHzAuth" not found
+in APPPATH\Helpers\MHzFunctions_helper.php on line 8.
+ 1 APPPATH\Views\backend\layout\section\header.php(12): get_user()
+ 2 APPPATH\Views\backend\layout\blank.php(70): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\header.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 11:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:56:12 --> Error: Class "App\Libraries\MHzAuth" not found
+in APPPATH\Helpers\MHzFunctions_helper.php on line 8.
+ 1 APPPATH\Views\backend\layout\section\header.php(12): get_user()
+ 2 APPPATH\Views\backend\layout\blank.php(70): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\header.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 11:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 11:56:41 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\HomeController.php(13): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\HomeController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 19:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 19:06:38 --> TypeError: CodeIgniter\Router\RouteCollection::resource(): Argument #2 ($options) must be of type ?array, string given, called in C:\laragon\www\ci4-fic11\app\Config\Routes.php on line 69
+in SYSTEMPATH\Router\RouteCollection.php on line 829.
+ 1 APPPATH\Config\Routes.php(69): CodeIgniter\Router\RouteCollection->resource('product', 'ProductController::index')
+ 2 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection::{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(70): CodeIgniter\Router\RouteCollection->group('', Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 5 APPPATH\Config\Routes.php(77): CodeIgniter\Router\RouteCollection->group('api', [...], Object(Closure))
+ 6 SYSTEMPATH\Router\RouteCollection.php(344): require('C:\\laragon\\www\\ci4-fic11\\app\\Config\\Routes.php')
+ 7 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 8 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 19:06:42 --> TypeError: CodeIgniter\Router\RouteCollection::resource(): Argument #2 ($options) must be of type ?array, string given, called in C:\laragon\www\ci4-fic11\app\Config\Routes.php on line 69
+in SYSTEMPATH\Router\RouteCollection.php on line 829.
+ 1 APPPATH\Config\Routes.php(69): CodeIgniter\Router\RouteCollection->resource('product', 'ProductController::index')
+ 2 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection::{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(70): CodeIgniter\Router\RouteCollection->group('', Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 5 APPPATH\Config\Routes.php(77): CodeIgniter\Router\RouteCollection->group('api', [...], Object(Closure))
+ 6 SYSTEMPATH\Router\RouteCollection.php(344): require('C:\\laragon\\www\\ci4-fic11\\app\\Config\\Routes.php')
+ 7 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 8 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 19:07:34 --> TypeError: CodeIgniter\Router\RouteCollection::resource(): Argument #2 ($options) must be of type ?array, string given, called in C:\laragon\www\ci4-fic11\app\Config\Routes.php on line 69
+in SYSTEMPATH\Router\RouteCollection.php on line 829.
+ 1 APPPATH\Config\Routes.php(69): CodeIgniter\Router\RouteCollection->resource('product', 'ProductController::class')
+ 2 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection::{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(70): CodeIgniter\Router\RouteCollection->group('', Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(778): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 5 APPPATH\Config\Routes.php(77): CodeIgniter\Router\RouteCollection->group('api', [...], Object(Closure))
+ 6 SYSTEMPATH\Router\RouteCollection.php(344): require('C:\\laragon\\www\\ci4-fic11\\app\\Config\\Routes.php')
+ 7 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 8 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 19:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 19:15:43 --> TypeError: explode(): Argument #2 ($string) must be of type string, array given
+in SYSTEMPATH\Router\Router.php on line 475.
+ 1 SYSTEMPATH\Router\Router.php(475): explode('::', [...])
+ 2 SYSTEMPATH\Router\Router.php(186): CodeIgniter\Router\Router->checkRoutes('api/test')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('api/test')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 19:16:33 --> TypeError: explode(): Argument #2 ($string) must be of type string, array given
+in SYSTEMPATH\Router\Router.php on line 475.
+ 1 SYSTEMPATH\Router\Router.php(475): explode('::', [...])
+ 2 SYSTEMPATH\Router\Router.php(186): CodeIgniter\Router\Router->checkRoutes('api/test')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('api/test')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 19:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 19:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 19:31:24 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:21:01 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 20:29:10 --> Error: Object of class CodeIgniter\Shield\Auth could not be converted to string
+in APPPATH\Controllers\api\AuthController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:30:23 --> Error: Object of class CodeIgniter\Shield\Auth could not be converted to string
+in APPPATH\Controllers\api\AuthController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 20:31:36 --> Error: Object of class CodeIgniter\Shield\Entities\User could not be converted to string
+in APPPATH\Controllers\api\AuthController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:34:06 --> Error: Cannot use object of type CodeIgniter\Shield\Entities\User as array
+in APPPATH\Controllers\api\AuthController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 20:34:31 --> Error: Call to undefined method CodeIgniter\Shield\Entities\User::roles()
+in APPPATH\Controllers\api\AuthController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 20:40:19 --> Error: Call to undefined function App\Controllers\api\get_user()
+in APPPATH\Controllers\api\AuthController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:41:58 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Controllers\api\AuthController.php on line 19.
+ 1 APPPATH\Controllers\api\AuthController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Controllers\\api\\AuthController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:44:25 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Controllers\api\AuthController.php on line 19.
+ 1 APPPATH\Controllers\api\AuthController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Controllers\\api\\AuthController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:44:35 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Controllers\api\AuthController.php on line 19.
+ 1 APPPATH\Controllers\api\AuthController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Controllers\\api\\AuthController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:46:29 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Controllers\api\AuthController.php on line 20.
+ 1 APPPATH\Controllers\api\AuthController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Controllers\\api\\AuthController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-06 20:50:20 --> Error: Class "UsersModel" not found
+in APPPATH\Helpers\MHzFunctions_helper.php on line 9.
+ 1 APPPATH\Controllers\api\AuthController.php(21): get_user()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\api\AuthController->test()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\api\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:51:18 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:51:32 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:52:33 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:52:44 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:53:15 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:53:17 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:53:32 --> ErrorException: Attempt to read property "role" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "role" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:55:02 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 20:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 20:58:04 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 21:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 21:00:39 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 21:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 21:01:24 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 21:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 21:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 21:06:16 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/users/list', [], true)
+ 7 APPPATH\Controllers\admin\ProductController.php(18): view('backend/users/list', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\ProductController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\ProductController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 21:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:43:58 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(16): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:44:30 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(16): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:50:51 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(17): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:52:09 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(17): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:52:29 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(17): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-06 22:54:24 --> ErrorException: Attempt to read property "roles" on null
+in APPPATH\Views\backend\layout\section\left-sidebar.php on line 17.
+ 1 APPPATH\Views\backend\layout\section\left-sidebar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "roles" on null', 'C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php', 17)
+ 2 APPPATH\Views\backend\layout\blank.php(72): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\section\\left-sidebar.php')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\ci4-fic11\\app\\Views\\backend\\layout\\blank.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('backend/layout/blank', [], true)
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('backend/pages/home', [], true)
+ 7 APPPATH\Controllers\PageController.php(18): view('backend/pages/home', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PageController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-06 22:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 22:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:14:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-06 23:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
