@@ -27,6 +27,7 @@ abstract class BaseController extends Controller
      * @var CLIRequest|IncomingRequest
      */
     protected $request;
+    protected $data = [];
 
     /**
      * An array of helpers to be loaded automatically upon
@@ -35,7 +36,7 @@ abstract class BaseController extends Controller
      *
      * @var array
      */
-    protected $helpers = [];
+    protected $helpers = ['url', 'form','file','MHzFunctions'];
 
     /**
      * Be sure to declare properties for any property fetch you initialized.
@@ -50,6 +51,8 @@ abstract class BaseController extends Controller
     {
         // Do Not Edit This Line
         parent::initController($request, $response, $logger);
+
+        $this->data['webTitle']  = 'POS By MHz';
 
         // Preload any models, libraries, etc, here.
 
