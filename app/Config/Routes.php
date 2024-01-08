@@ -22,6 +22,31 @@ $routes->get('profile', 'UserController::profile');
 $routes->group('admin', ["namespace" => "App\Controllers\admin"], function($routes){ //, 'filter'=>'mhzfilter:guest'
 
     //--Admin >> User Manage:
+    $routes->group('', static function($routes){ //['filter'=>'mhzfilter:auth'], 
+        $routes->get('user', 'UserController::index',['as'=>'admin.user']);
+        // $routes->get('logout', 'AdminController::logoutHandler',['as'=>'admin.logout']);
+        // $routes->get('profile', 'AdminController::profile',['as'=>'admin.profile']);
+    });
+
+    //--Admin >> Category Manage:
+    $routes->group('', static function($routes){ //['filter'=>'mhzfilter:auth'], 
+        $routes->get('category', 'CategoryController::index',['as'=>'admin.category']);
+    });
+
+    //--Admin >> Product Manage:
+    $routes->get('product', 'ProductController::index');
+});
+
+//--API:
+//=============================================================================================
+$routes->group("api", ["namespace" => "App\Controllers\api"], function ($routes) {
+
+    //--API >> Auth:
+    //----------------------------------------------------------------------------------------
+
+    $routes->get("test", "AuthController::test", ["filter" => "apiauth"]); // 
+
+    //--Admin >> User Manage:
     $routes->group('', static function($routes){ 
         $routes->get('user', 'UserController::index',['as'=>'admin.user']);
         // $routes->get('logout', 'AdminController::logoutHandler',['as'=>'admin.logout']);
